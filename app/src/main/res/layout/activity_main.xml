@@ -31,6 +31,7 @@
         android:drawableLeft="@drawable/loctaion"
         android:drawablePadding="15dp"
         android:fontFamily="@font/merriweathersans_medium"
+        android:textAllCaps="true"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="@+id/searchView"

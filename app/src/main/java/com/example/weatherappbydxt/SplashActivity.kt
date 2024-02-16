@@ -1,4 +1,4 @@
-package com.example.weatherapp
+package com.example.weatherappbydxt
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
